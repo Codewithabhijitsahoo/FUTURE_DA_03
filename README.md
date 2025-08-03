@@ -61,4 +61,13 @@ This dashboard helps summarize student feedback in a visually interactive way. I
 * Understand what students enjoy.
 
 * Learn where improvements are needed based on student suggestions.
+
    
+# tabulae public link:
+
+<a href="https://public.tableau.com/app/profile/abhijit.sahoo2208/viz/Book5_17541354911050/Dashboard2?publish=yes">click here to see dashboard</a>
+
+
+# dashboard
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-02 135934" src="https://github.com/user-attachments/assets/7dcfc2d0-cdee-4961-951d-f6464f124b06" />
